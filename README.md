@@ -7,6 +7,8 @@
 
 I specialize in analyzing customer behavior, user engagement, and business performance using SQL to generate actionable insights that drive decision-making.
 
+💡 My work emphasizes not just writing SQL queries, but solving real-world business problems using data.
+
 ---
 
 
