@@ -15,8 +15,8 @@ This repository contains end-to-end SQL-based data analysis projects on real-wor
 
 ### 1. 🛒 Flipkart Customer Behavior & Revenue Analysis  
 📊 **Focus:** Customer spending & revenue trends  
-🔗 [View Project](your-link)
-https://github.com/Pragatheswaran-M/SQL-Data-Analysis-Projects/tree/main/flipkart-analysis 
+🔗 [View Project](https://github.com/Pragatheswaran-M/SQL-Data-Analysis-Projects/tree/main/flipkart-analysis )
+
 
 **Highlights:**
 - Identified high-value customers contributing a majority of revenue
@@ -26,8 +26,8 @@ https://github.com/Pragatheswaran-M/SQL-Data-Analysis-Projects/tree/main/flipkar
 ---
 
 ### 2. Rapido User Behavior & Ride Analytics  
-📌 Analyzed ride data to evaluate user engagement and segmentation patterns.  
-🔗 https://github.com/Pragatheswaran-M/SQL-Data-Analysis-Projects/tree/main/rapido-analysis  
+📊 **Focus:** Analyzed ride data to evaluate user engagement and segmentation patterns.  
+🔗  [View Project](https://github.com/Pragatheswaran-M/SQL-Data-Analysis-Projects/tree/main/rapido-analysis)
 
 **Highlights:**
 - Segmented users based on ride frequency and distance
