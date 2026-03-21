@@ -1,12 +1,21 @@
-## 👨‍💻 About Me
-Aspiring Data Analyst with strong SQL skills, focusing on solving business problems through data.
-
 # SQL Data Analysis Projects
 
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
 ![Focus](https://img.shields.io/badge/Data%20Analytics-Business%20Insights-orange)
 
-This repository contains end-to-end SQL-based data analysis projects on real-world inspired datasets. The focus is on deriving business insights, identifying patterns, and solving practical analytical problems.
+👨‍💻 Data Analyst Aspirant specializing in SQL-driven analysis, focused on solving real-world business problems through data.
+
+This repository showcases end-to-end SQL projects where I analyze customer behavior, user engagement, and business performance to generate actionable insights.
+
+---
+
+
+## 🚀 What This Repository Demonstrates
+
+- Translating business problems into analytical queries  
+- Extracting insights from structured datasets  
+- Applying SQL techniques to simulate real-world scenarios  
+- Communicating findings with business impact
 
 ---
 
@@ -17,7 +26,7 @@ This repository contains end-to-end SQL-based data analysis projects on real-wor
 🔗 [View Project](https://github.com/Pragatheswaran-M/SQL-Data-Analysis-Projects/tree/main/flipkart-analysis )
 
 
-**Highlights:**
+**Impact:**
 - Identified high-value customers contributing a majority of revenue
 - Analyzed category-wise performance and spending trends
 - Detected customer growth/decline patterns using window functions
@@ -28,7 +37,7 @@ This repository contains end-to-end SQL-based data analysis projects on real-wor
 📊 **Focus:** Analyzed ride data to evaluate user engagement and segmentation patterns.  
 🔗  [View Project](https://github.com/Pragatheswaran-M/SQL-Data-Analysis-Projects/tree/main/rapido-analysis)
 
-**Highlights:**
+**Impact:**
 - Segmented users based on ride frequency and distance
 - Identified high-engagement and inactive users
 - Analyzed ride patterns across vehicle types
