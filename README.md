@@ -4,8 +4,7 @@ Aspiring Data Analyst with strong SQL skills, focusing on solving business probl
 # SQL Data Analysis Projects
 
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
-![Status](https://img.shields.io/badge/Project-Active-green)
-![Focus](https://img.shields.io/badge/Domain-Data%20Analytics-orange)
+![Focus](https://img.shields.io/badge/Data%20Analytics-Business%20Insights-orange)
 
 This repository contains end-to-end SQL-based data analysis projects on real-world inspired datasets. The focus is on deriving business insights, identifying patterns, and solving practical analytical problems.
 
@@ -36,13 +35,12 @@ This repository contains end-to-end SQL-based data analysis projects on real-wor
 
 ---
 
-## 🛠️ Skills Demonstrated
+## 🛠️ Skills & Tools
 
-- SQL (Joins, Aggregations, Subqueries)
-- Window Functions (DENSE_RANK, LAG, LEAD)
-- Common Table Expressions (CTEs)
-- Data Analysis & Business Insights
-- User Segmentation & Behavioral Analysis
+- **SQL (Advanced):** Joins, Aggregations, Subqueries  
+- **Window Functions:** DENSE_RANK, LAG, LEAD  
+- **Data Techniques:** CTEs, Segmentation, Trend Analysis  
+- **Analytics Skills:** Business Insights, User Behavior Analysis 
 
 ---
 
