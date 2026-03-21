@@ -3,15 +3,20 @@ Aspiring Data Analyst with strong SQL skills, focusing on solving business probl
 
 # SQL Data Analysis Projects
 
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Status](https://img.shields.io/badge/Project-Active-green)
+![Focus](https://img.shields.io/badge/Domain-Data%20Analytics-orange)
+
 This repository contains end-to-end SQL-based data analysis projects on real-world inspired datasets. The focus is on deriving business insights, identifying patterns, and solving practical analytical problems.
 
 ---
 
 ## 🔍 Projects
 
-### 1. Flipkart Customer Behavior & Revenue Analysis  
-📌 Analyzed e-commerce transactions to understand customer spending patterns and revenue drivers.  
-🔗 https://github.com/Pragatheswaran-M/SQL-Data-Analysis-Projects/tree/main/flipkart-analysis  
+### 1. 🛒 Flipkart Customer Behavior & Revenue Analysis  
+📊 **Focus:** Customer spending & revenue trends  
+🔗 [View Project](your-link)
+https://github.com/Pragatheswaran-M/SQL-Data-Analysis-Projects/tree/main/flipkart-analysis 
 
 **Highlights:**
 - Identified high-value customers contributing a majority of revenue
